@@ -96,16 +96,16 @@ body {
 
 .cartao .descricao .titulo {
     background-color: #333333;
-    font-size: 20pt;
+    font-size: 18pt;
     color: #ffffff;
-    padding: 12px;
+    padding: 8px;
 }
 
 .cartao .descricao .texto {
-    font-size: 14px;
-    padding: 12px;
+    font-size: 13px;
+    padding: 8px;
     text-align: justify;
-    max-height: 110px;
+    max-height: 90px;
     overflow-y: auto;
 }
 
